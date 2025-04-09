@@ -44,5 +44,5 @@
     "webRequestBlocking"
   ],
   "optional_permissions": ["bookmarks", "history"],
-  "version": "1.2.51"
+  "version": "1.2.53"
 }
